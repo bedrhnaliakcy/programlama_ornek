@@ -1,2 +1,2 @@
-# programlama_ornek
-Burada c++ örnekleri barındırmaktadır
+# C++_programlama
+Burada temel c++ örnekleri vardır
